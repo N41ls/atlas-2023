@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "\"pandorya glyphe\"",
+	"description": "\"pandorya glyphe\" \nis the sign of the German streamer Pandorya",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/xpandorya?lang=de"
+		]
+	},
+	"path": {
+		"140": [
+			[
+				228,
+				-294
+			],
+			[
+				238,
+				-286
+			],
+			[
+				239,
+				-291
+			],
+			[
+				233,
+				-298
+			]
+		]
+	},
+	"center": {
+		"140": [
+			233,
+			-294
+		]
+	}
+}
