@@ -1,0 +1,52 @@
+{
+	"id": 866,
+	"name": "Tobinatorlp \"kleiner als Zwei\" ",
+	"description": "\"kleiner als Zwei\" \nis an emote from German streamer TobinatorLp",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/tobinatorlp"
+		]
+	},
+	"path": {
+		"111-140": [
+			[
+				233,
+				-262
+			],
+			[
+				238,
+				-258
+			],
+			[
+				246,
+				-258
+			],
+			[
+				245,
+				-267
+			],
+			[
+				238,
+				-267
+			],
+			[
+				236,
+				-265
+			],
+			[
+				235,
+				-264
+			],
+			[
+				234,
+				-263
+			]
+		]
+	},
+	"center": {
+		"111-140": [
+			240,
+			-262
+		]
+	}
+}
